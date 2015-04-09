@@ -1,6 +1,6 @@
 # Solution-For-Remote-Permission-Denied
 
-solution for remote: Permission to githubuser1/gitrepo1.git denied to githubuser2.
+Solution for remote: Permission to githubuser1/gitrepo1.git denied to githubuser2.
 
 This really take me a lot of time, and almost all anwsers on the web are not helpful. So I think that I should share my experience with this and hopefully wil convenience people.
 
